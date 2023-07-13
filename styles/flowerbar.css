@@ -66,3 +66,26 @@ background: rgba(229, 84, 115, 0.05);
     width: 318px;
     height: 420px; 
 }
+.image-style{
+    max-width: 500pxpx;
+    padding:0px 30px;
+    display: flex;
+   
+}
+.img-size{
+    width: 342px;
+    height: 396px;
+    margin: 5px;
+}
+.text{
+    text-align: center;
+}
+.instagram{
+    max-width: 1430px;
+}
+.width{
+    text-align: center;
+    max-width: 400px;
+}
+
+
