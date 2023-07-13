@@ -1,0 +1,43 @@
+/* header related styles */
+.header{
+    background: rgba(229, 84, 115, 0.10);
+}
+.banner{
+    padding: 50px 90px;
+    align-items: center;
+    display:flex;
+    justify-content: space-between;
+}
+.banner-content{
+  max-width: 500px;  
+}
+.banner .main-picture{
+    width: 635px;
+    height: 800px;
+}
+.banner-slogan{
+    margin-bottom: 0;
+    color: black;
+    font-family: Lato;
+    font-size: 80px;  
+}
+.paragraph{
+    margin-top: 32px;
+    margin-bottom: 0;
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+}
+.btn-primary{
+    margin-top: 32px;
+    border-radius: 5px ;
+    padding: 20px 43px;
+    border: 0;
+    background-color: #E55473;
+    color: white;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;  
+}
