@@ -67,25 +67,47 @@ background: rgba(229, 84, 115, 0.05);
     height: 420px; 
 }
 .image-style{
-    max-width: 500pxpx;
-    padding:0px 30px;
+    margin: 0px auto;
     display: flex;
    
 }
 .img-size{
-    width: 342px;
-    height: 396px;
+    width: 300px;
+    height: 342px;
     margin: 5px;
 }
 .text{
     text-align: center;
 }
 .instagram{
-    max-width: 1430px;
+    margin: 0px auto;
+    max-width: 800px;
 }
 .width{
     text-align: center;
-    max-width: 400px;
+    max-width: 600px;
+}
+.container{
+    padding: 100px;
+background-image: url("../Flower Asset/Rectangle\ 9.png");
+background-repeat: no-repeat;
+    margin: 20px;
+    width: 1440px;
+height: 449px;
+     text-align: center;
+
+}
+.input{
+    width: 700px;
+height: 64px;
+}
+.footer{
+    background-color: black;
+    padding: 100px;
+    text-align: center;
+}
+.footer-title, .footer-description, .small{
+    color: white;
 }
 
 
